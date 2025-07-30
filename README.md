@@ -93,7 +93,7 @@ The dataset includes various player-level statistics:
 
 Bana Manaswini
 AI & Data Science Enthusiast  
-GitHub: [github.com/ManaswiniReddy](https://github.com/ManaswiniReddy)
+GitHub: [https://github.com/Bana-Manaswini)
 
 ---
 
